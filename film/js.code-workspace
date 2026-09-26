@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../js"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../alynma sozler"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js"
+	}
+}
